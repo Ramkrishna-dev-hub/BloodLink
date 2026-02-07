@@ -1,5 +1,5 @@
 import { registerDonor, loginUser } from "./auth.js";
-console.log("main.js loaded");
+console.log("mainjs.js loaded");
 
 // USER REGISTRATION
 const regForm = document.getElementById("userRegisterForm");
